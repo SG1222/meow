@@ -19,6 +19,6 @@ https://sg1222.github.io/rocket-03/
 https://sg1222.github.io/mcq/
 
 7. A website to log your emmisions and check your carbon footprint:
-https://sg1222.github.io/carbon-footprint/#overview
+https://sg1222.github.io/carbon-footprint/
 
 File names are pretty self explanatory. You can upload them into any LLM and ask it to follow the instructions. Works pretty good 😃.
