@@ -21,4 +21,4 @@ https://sg1222.github.io/mcq/
 7. A website to log your emmisions and check your carbon footprint:
 https://sg1222.github.io/carbon-footprint/#overview
 
-I think the names of the files are self explanatory. You can upload them into any LLM and ask it to follow the instructions. Works pretty good 😃.
+File names are pretty self explanatory. You can upload them into any LLM and ask it to follow the instructions. Works pretty good 😃.
