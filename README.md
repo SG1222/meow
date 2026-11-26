@@ -1,10 +1,17 @@
 # meow
 
-A website that removes AI watermarks from text:
-https://sg1222.github.io/text-cleaner/
 
 A website with usefull pdf tools:
 https://sg1222.github.io/pdf/
+
+A website that removes AI watermarks from text:
+https://sg1222.github.io/text-cleaner/
+
+Mistakes log creater:
+https://mistake.bobrobsg.workers.dev/
+
+Expenses Tracker:
+https://expenses.bobrobsg.workers.dev/
 
 A website that suggests analog activities to explore instead of doomscrolling:
 https://sg1222.github.io/touch-grass/
@@ -18,7 +25,5 @@ https://sg1222.github.io/wind-tunnel/
 Simulation of my rocket's flight:
 https://sg1222.github.io/rocket-03/
 
-A website to log your emmisions and check your carbon footprint:
-https://sg1222.github.io/carbon-footprint/
 
 File names are pretty self explanatory. You can upload them into any LLM and ask it to follow the instructions. Works pretty good 😃.
