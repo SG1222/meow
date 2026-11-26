@@ -26,4 +26,4 @@ Simulation of my rocket's flight:
 https://sg1222.github.io/rocket-03/
 
 
-File names are pretty self explanatory. You can upload them into any LLM and ask it to follow the instructions. Works pretty good 😃.
+File names are pretty self explanatory. You can upload them into any LLM and ask it to follow the instructions.
